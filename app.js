@@ -1,4 +1,9 @@
-﻿'use strict';
+/* app.js
+Parker Rose Burck
+sets all the path variables for COMP 2068 Assignment 1(Oct15Trial)
+*/
+
+'use strict';
 var debug = require('debug');
 var express = require('express');
 var path = require('path');
