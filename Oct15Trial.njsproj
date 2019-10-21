@@ -37,6 +37,7 @@
     <Content Include="public\stylesheets\main.css" />
     <Content Include="README.md" />
     <Content Include="views\contact.pug" />
+    <Content Include="views\includes\footer.pug" />
     <Content Include="views\services.pug" />
     <Content Include="views\projects.pug" />
     <Content Include="views\includes\header.pug">
