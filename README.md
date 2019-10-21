@@ -1,3 +1,3 @@
-﻿# Oct15Trial
+﻿# COMP2068 Portfolio Assignmnet
 
 
