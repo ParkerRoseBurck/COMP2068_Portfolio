@@ -1,4 +1,9 @@
-﻿'use strict';
+/*  index.js
+    Parker Rose Burck
+    gets each page for COMP 2068 Assignment 1 (Oct15Trial)
+*/
+
+'use strict';
 var express = require('express');
 var router = express.Router();
 
